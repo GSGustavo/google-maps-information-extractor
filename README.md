@@ -5,6 +5,9 @@ Programa com o intuito de fazer buscas de empresas em cidades no google maps e g
 
 > pyautogui |
 > unicodedate |
-> selenium
+> selenium |
+> help (Desenvolvida por mim, ja esta na pasta)
 
-Como fazer 
+• Como fazer funcionar?
+
+Você deve rodar o arquivo main.py, 
