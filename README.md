@@ -25,7 +25,10 @@
 
 ## Como fazer funcionar?
 
-Você deve rodar o arquivo main.py, 
+- Você deve rodar o arquivo main.py e escolher a opção 1
+- Após isso, caso queira personalizar quais categorias gostaria de buscar em uma cidade, basta digitar 0, caso não, digite 1
+- O programa vem com cidades pré-cadastradas, porém você pode edita-las na linha 20 (Ignore a linha 23) do arquivo main.py
+- Para adicionar mais cidades, recomendo buscar como o nome dela esta escrito no google maps, e adicionar/colar na lista da linha 20
 
 ## Observações
 
