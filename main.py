@@ -115,13 +115,13 @@ while True:
     while True:
         pergunta = verify_int('''O que você quer fazer?
   [1] - Buscar empresas no Google Maps e criar o .txt
-  [2] - Cadastrar empresas do .txt na Localizar Fácil
-  [3] - Buscar e Cadastrar empresas
-  [4] - Apagar empresas
-  [5] - Editar Empresas
+  [2] - OPÇÃO RETIRADA
+  [3] - OPÇÃO RETIRADA
+  [4] - OPÇÃO RETIRADA
+  [5] - OPÇÃO RETIRADA
   [99] - Sair
 Opção: ''')
-        listaNunsOps = range(1, 6)
+        listaNunsOps = [1, 99]
         if pergunta not in listaNunsOps and pergunta != 99:
             error_controlled(f'Por favor, insira um valor válido {listaNunsOps}')
         else:
