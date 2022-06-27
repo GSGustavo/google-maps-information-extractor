@@ -30,6 +30,7 @@
 - O programa vem com cidades pré-cadastradas, porém você pode edita-las na linha 20 (Ignore a linha 23) do arquivo main.py
 - Para adicionar mais cidades, recomendo buscar como o nome dela esta escrito no google maps, e adicionar/colar na lista da linha 20
 
-## Observações
+## Observações (Importantes)
 
 - O script conta com vários prints no console para debbuging, acabei não retirando pois pode lhe ajudar a entender com funciona
+- O programa não funciona sem um webdriver, no caso, o script foi pensado e executado no chromedriver, no repositório, você ja encontra um, porém caso apresente erro, va ao site de downloads do chromedriver, e tente baixar a versão que o erro pede (https://chromedriver.chromium.org/downloads)
