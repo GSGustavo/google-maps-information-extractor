@@ -12,8 +12,8 @@ def fazerlogin(nav):
     # estado = 'Mato Grosso'
     # cidade = 'São José dos Quatro Marcos'
     # chrome_options = Options()
-    email = 'atendimento@localizarfacil.com.br'
-    senha = 'L8oc*alk@#'
+    email = 'email'
+    senha = '123456'
     # navegador = webdriver.Firefox()
     # navegador.maximize_window()
     nav.get("https://dash.localizarfacil.com.br/entrar")
